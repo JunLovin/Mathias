@@ -1,2 +1,2 @@
-# Mathias-Rend-n
-- link(https://junlovin.github.io/Mathias/)
+# Mathias
+[Click this to go to the page](https://junlovin.github.io/Mathias)
